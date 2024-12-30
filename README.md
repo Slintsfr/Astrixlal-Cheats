@@ -2,8 +2,8 @@
 The Ultimate Free Cheats for Roblox
 
 ## How to Use:
-- Download the Astrixlal.bat file.
-- Run Astrixlal.bat to initiate the cheat menu.
+- Download the Astrixlal-Loader.bat file.
+- Run Astrixlal-Loader.bat to initiate the cheat menu.
 - Launch Roblox.
 - Once in the game, click "Load" on the cheat GUI.
 - Enjoy the game with enhanced features!
